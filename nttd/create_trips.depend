@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1680403534 source:d:\omnetpp\map_nttd\create_trips\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<unordered_map>
+	"Trip.h"
+
+1673748173 d:\omnetpp\map_nttd\create_trips\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1680403454 d:\omnetpp\map_nttd\create_trips\include\trip.h
+	<string>
+
+1680403477 source:d:\omnetpp\map_nttd\create_trips\src\trip.cpp
+	"Trip.h"
+
+1680623383 source:d:\omnetpp\omnetpp-5.6.2\samples\veins\examples\nttd\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<unordered_map>
+	"Trip.h"
+
+1680403454 d:\omnetpp\omnetpp-5.6.2\samples\veins\examples\nttd\include\trip.h
+	<string>
+
+1680403477 source:d:\omnetpp\omnetpp-5.6.2\samples\veins\examples\nttd\src\trip.cpp
+	"Trip.h"
+
